@@ -1,0 +1,19 @@
+h1{
+    color:white;
+    font-size: 44px;
+}
+h2{
+    align-content: flex-start on container;
+}
+.sephora
+{
+    display: flex;
+}
+h1{
+    font-size: medium;
+}
+body
+{
+    background-image: url("https://cap.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcap.2F2017.2F05.2F05.2Fbc87d5c6-dab3-45d3-997a-e6165590f7d3.2Ejpeg/1200x630/background-color/ffffff/quality/70/cr/wqkgwqkgRnJhbmNrIENSVVNJQVVYL1JFQSAvIENBUElUQUw%3D/comment-sephora-impose-sa-loi-1196262.jpg");
+background-size: cover;
+}
